@@ -1,0 +1,22 @@
+/* General
+***********************/
+body {
+	height: auto;
+	background:#fff;
+}
+
+#photos img {width: 100%; border: 1px solid #ccc}
+
+/* Media Queries
+***********************/
+@media screen and (max-width: 960px) {
+  #container {padding: 35px;}
+  #main {margin-left: 0px;}
+}
+@media screen and (max-width: 768px) {
+  #container {padding: 20px 30px;}
+  #main {margin-left: 0;}
+}
+@media screen and (max-width: 500px) {
+  header h1 {width: 246px;  }
+}
