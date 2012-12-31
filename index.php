@@ -21,12 +21,13 @@
       202 Mecca Avenue - Edgewood Cottage
     </h1>
     
-    <h2>$279,000, 3 Bedrooms, 2 Baths, Updated Kitchen &amp; Baths, Large Backyard</h2>
+    <h2>3 Bedrooms, 2 Baths, Updated Kitchen &amp; Baths, Large Backyard</h2>
     
     <ul>
       <li>Fabulous kitchen with stainless appliances, granite countertops, walk-in pantry</li>
       <li>2 blocks from Edgewood Elementary, Homewood Middle School, town center restaurants and shopping</li>
       <li>Convenient to UAB and downtown Birmingham</li>
+      <li>$279,000</li>
     </ul>
     <p>
       American 1950's brick cottage with craftsman-style interior and lots of warmth and charm. Fully remodeled kitchen custom designed with built-in stainless fridge, walk-in pantry, breakfast nook, stainless appliances, cherry cabinets, granite counter tops, fireclay sink, beautiful stained glass lighting fixtures and tile floor. Updated baths. The master bath was fully remodeled in 2011 with pedestal sink, floor to ceiling tiled shower with arched doorway. Living Room/Den features recessed lighting, custom built-in cabinets and bookshelves. Crown molding throughout. Refinished hardwood floors. Plenty of closet space. Spacious basement garage with room for 1+ cars, plus plenty of storage space including a heated/cooled bonus room which could be used as an office, media room, or man cave. French doors lead to the large shaded backyard with patio, deck, privacy fence and a wooden play set that the children will love. New roof (2011). New air condition (2009). Freshly painted inside and out. This is a low-maintenance home and move-in ready.
