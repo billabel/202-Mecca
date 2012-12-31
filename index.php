@@ -21,7 +21,7 @@
       202 Mecca Avenue - Edgewood Cottage
     </h1>
     
-    <h2>3 Bedrooms, 2 Baths, Updated Kitchen &amp; Baths, Large Backyard</h2>
+    <h2>$279,000, 3 Bedrooms, 2 Baths, Updated Kitchen &amp; Baths, Large Backyard</h2>
     
     <ul>
       <li>Fabulous kitchen with stainless appliances, granite countertops, walk-in pantry</li>
